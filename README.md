@@ -1,5 +1,5 @@
 # poo-atividade-pratica
-atiidade pratica reequisitada pelo professor Emerson
+atividade prática reequisitada pelo professor Emerson
 
 ## Aluno
  Alan Soares
